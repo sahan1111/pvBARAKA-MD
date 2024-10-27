@@ -56,6 +56,10 @@
       "description": "Enter your bot prefix eg .,+@#$¶∆×π",
       "required": false,
       "value": ""
+            "AUTO_VOICE": {
+      "description": "Enter your voice message",
+      "required": true,
+      "value": "Hi"
     }
     },
     "buildpacks": [
