@@ -1,17 +1,17 @@
 
 {
-  "name": "Baraka-Md",
+  "name": "RIO-Md",
   "version": "10.8.1",
-  "description": "Baraka-Md latest multi device whatsapp bot",
+  "description": "RIO-Md latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Baraka-Md",
-    "stop": "pm2 stop Baraka-Md",
-    "restart": "pm2 restart Baraka-Md"
+    "start": "pm2 start index.js --deep-monitoring --attach --name RIO-Md",
+    "stop": "pm2 stop RIO-Md",
+    "restart": "pm2 restart RIO-Md"
   },
-  "keywords": ["Baraka-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Baraka Bega",
+  "keywords": ["RIO-Md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "RIO Sahan",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
